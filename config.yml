@@ -27,7 +27,7 @@ modules:
     # telegram:
     #     channel: $telegram_id
     discord:
-          webhook: $dc_url
+          webhook: $discord_webhook
     # line_notify:
     #     token: $line_token
     # issue:
